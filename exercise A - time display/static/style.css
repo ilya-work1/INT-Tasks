@@ -1,0 +1,16 @@
+
+#time-button {
+    background-color: #6050dc;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: #9F8E78;
+}
