@@ -1,0 +1,40 @@
+body {
+    background-color:#ff81d5;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#words {
+    width: 296px;
+    height: 80px;
+    padding: 10px;
+    position: relative;
+    top: 2vh;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    font-family: inherit;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #69dbc8;
+    color: rgb(59, 36, 36);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+    position: relative;
+    top: 2vh;      
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgb(59, 36, 36);
+    position: relative;
+    top: 2vh;
+}
