@@ -1,0 +1,36 @@
+body {
+    background-color:#be4c5b;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#FeedBack {
+    width: 296px;
+    height: 80px;
+    padding: 10px;
+    position: relative;
+    top: 2vh;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    font-family: inherit;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #19811d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+    position: relative;
+    top: 2vh;      
+}
+
+#email {
+    transition: border-color 0.3s ease;
+}
