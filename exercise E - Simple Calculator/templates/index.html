@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BestCalculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="calculator.jpg" id="image">
+    <h2>Simple Calculator</h2>
+    <form id="form">
+        <input type="number" id="num1">
+        <select id="operation">
+            <option value="add">add</option>
+            <option value="subtract">subtract</option>
+            <option value="multiply">multiply</option>
+            <option value="divide">divide</option>
+        </select>
+        <input type="number" id="num2">
+    </form>
+    <button id="button" onclick="calculate()">calculate</button>  
+    <div id="result"></div>
+    <script src="script.js" defer></script>
+</body>

@@ -1,0 +1,35 @@
+body {
+    background-color:#2f2fee;
+    text-align: center;
+}
+
+/* can't be any clearer than this */
+
+h2 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#image {
+    width: 23%;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #19811d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px;
+    position: relative;
+    top: 2vh;      
+}
+
+#result {
+    position: relative;
+    top: 5vh;
+    color: white;
+    font-size: 22px
+}
+
